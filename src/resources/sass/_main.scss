@@ -2,3 +2,17 @@ main {
     width: 70%;
     margin: 10vh auto;
 }
+
+.image_area {
+    min-height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1vh;
+    background: #eee;
+    border: 1vh dashed #aaa;
+}
+
+.preview {
+    width: 100%;
+}
